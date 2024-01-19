@@ -1,7 +1,6 @@
 # Beginner DE Project - Batch Edition
 
 - [Beginner DE Project - Batch Edition](#beginner-de-project---batch-edition)
-    - [See detailed explanation at Data engineering project: Batch edition](#see-detailed-explanation-at-data-engineering-project-batch-edition)
   - [Design](#design)
   - [Setup](#setup)
     - [Prerequisite](#prerequisite)
