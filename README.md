@@ -1,6 +1,6 @@
-# Beginner DE Project - Batch Edition
+# Batch DE Project
 
-- [Beginner DE Project - Batch Edition](#beginner-de-project---batch-edition)
+- [Batch DE Project](#beginner-de-project---batch-edition)
   - [Design](#design)
   - [Setup](#setup)
     - [Prerequisite](#prerequisite)
