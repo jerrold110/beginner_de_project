@@ -1,7 +1,5 @@
 # Beginner DE Project - Batch Edition
 
-### See detailed explanation at [Data engineering project: Batch edition](https://www.startdataengineering.com/post/data-engineering-project-for-beginners-batch-edition)
-
 - [Beginner DE Project - Batch Edition](#beginner-de-project---batch-edition)
     - [See detailed explanation at Data engineering project: Batch edition](#see-detailed-explanation-at-data-engineering-project-batch-edition)
   - [Design](#design)
